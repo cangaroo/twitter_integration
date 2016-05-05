@@ -1,0 +1,6 @@
+{
+  "name": "Twitter integration for Cangaroo",
+  "description": "Twitter integration for Cangaroo, it let you tweet!",
+  "repository": "https://github.com/cangaroo/twitter_integration",
+  "keywords": ["cangaroo", "twitter", "integration"]
+}
