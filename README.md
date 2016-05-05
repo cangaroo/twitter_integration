@@ -1,6 +1,6 @@
 # Twitter Integration
 
-## Overview
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 This is an integration for use with the
 [Cangaroo](https://github.com/nebulab/cangaroo) open source project.
